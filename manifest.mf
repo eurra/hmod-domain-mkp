@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+
+Name: hmod/domain/mkp/
+Script-Bundle: true
+Script-Bundle-Title: hMod multidimensional knapsack problem API
+Script-Bundle-Version: 1.0
+Script-Bundle-Description: hMod multidimensional knapsack problem API.
